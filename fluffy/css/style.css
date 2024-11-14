@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body {
+  text-align: center;
+}
+
+#heading {
+  background: #0bd;
+  color: #fff;
+  display: inline-block;
+  padding: 6rem 3rem;
+  border-radius: 50%;
+}
